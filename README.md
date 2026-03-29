@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naina Bhalla</h1>
 <h3 align="center">A sophomore from IIT Kanpur</h3>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=naina-bhalla)
+
+
 
   
 # 🌐 Socials:
