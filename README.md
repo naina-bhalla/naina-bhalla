@@ -3,7 +3,6 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=naina-bhalla)
 
-[![Naina Bhalla profile views](https://u8views.com/api/v1/github/profiles/185158568/views/day-week-month-total-count.svg)](https://u8views.com/github/naina-bhalla)
 
 
 
